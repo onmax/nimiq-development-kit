@@ -1,0 +1,9 @@
+[submodule "keyguard"]
+	path = keyguard
+	url = http://github.com/nimiq/keyguard
+[submodule "hub"]
+	path = hub
+	url = http://github.com/nimiq/hub
+[submodule "wallet"]
+	path = wallet
+	url = http://github.com/nimiq/wallet
